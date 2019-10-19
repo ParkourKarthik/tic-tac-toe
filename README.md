@@ -1,3 +1,5 @@
+This Tic-tac-toe game is based on reactjs tutorials.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
